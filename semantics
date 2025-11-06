@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="stle.css">
+    </head>
+    <body>
+        <header>
+            <h1>Navigational links</h1>
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#post">Post</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <section>
+                <article>
+                    <h2>Facts about cats</h2>
+                    <p>
+                        Cats can't taste sweetness, have a unique nose print like fingerprints, and have 18 toes
+            (five on eachfront paw and four on each back paw). They have remarkable hearing, can jump up to five 
+            times their height, and their whiskers help them to navigate and feel their surroundings. While nearsighted,
+            they have superior peripheral and night vision. Can you imagine that the oldest cat lived to be 38 years old!
+
+                    </p>
+                </article>
+                <aside>
+                    <p>
+                     A resent study shows that cats' emotions are influenced by their owners. Cats can also tell
+            when their owners are sad or happy. Can you belive that the intelligence of a cat is similar to that of 
+            a two year old!
+                    </p>
+                </aside>
+            </section>
+            <figure>
+              <img src="cat.jpg"/>
+              <figcaption>A cute cat. </figcaption>
+              </figure>
+              <audio controls>
+                <source src="cat meow.mp3"  type="audio/wav">
+              </audio>
+              <video src="cat video.mp4" controls>
+              </video>
+           <embeded src="cat.gif"/>
+
+        </main>
+
+        <footer>
+            <p>Contact me at 0769688783</p>
+        </footer>
+
+        
+    </body>
+</html>
