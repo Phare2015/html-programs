@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title>replit</title>
+        <link href="style.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+        <!-- Let's try using headings and paragraph-->
+         <b>Hi! my name is Kayla. Let me introduce myself.</b><br>
+          
+         <strong>Hi! my name is Kayla. Let me introduce myself.</strong><br>
+           
+         <i> Hi! my name is Kayla. Let me introduce myself.</i><br>
+
+         <em> Hi! my name is Kayla. Let me introduce myself.</em><br>
+
+         <mark> Hi! my name is Kayla. Let me introduce myself.</mark><br>
+
+         <small> Hi! my name is Kayla. Let me introduce myself.</small><br>
+
+         <del> Hi! my name is Kayla. Let me introduce myself.</del><br>
+
+         Hi! my name is<sup> Kayla.</sup> Let me introduce <sup> myself</sup><br>
+    </body>
+    </html>
