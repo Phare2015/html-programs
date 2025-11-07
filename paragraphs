@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Headings</title>
+    </head>
+    <body>
+         
+
+        <!-- Let's try using various headings and paragraph-->
+         <h1> My name is Kayla. Let me introduce myself</h1>
+         <h2> My name is Kayla. Let me introduce myself</h2>
+         <h3> My name is Kayla. Let me introduce myself</h3>
+         <h4> My name is Kayla. let me introduce myself</h4>
+         <h5> My name is Kayla. let me introduce myself</h5>
+         <h6> My name is Kayla. Let me introduce myself</h6>
+
+
+         </body>
+</html>
