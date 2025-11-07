@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+     
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>replit</title>
+    <link href="style.css" rel="stylesheet" type="text?/css"/>
+    </head>
+
+
+    <body>
+        <h1>MOUNTAIN VIEW SCHOOL</h1><br>
+      Our School was started in 1985 and has been providing quality education ever since.<br>
+      We are located off Thika Super Highway, behind Safari park.<br>
+      Our school boasts a population of approximately one thousand, seven hundred and seventy six students
+      and approximately 136 teachers.<br>
+      Our members of staff are dedicated to ensuring the safety of your child as well as a wonderful learning
+      experience.<br>
+      We also have a variety of clubs ranging from <mark>swimming</mark>to<mark>ballet.</mark> 
+      Our teachers are trained in ensuring that your child excells in academics as well as co- curricular
+      activities.<br>
+      Our motto is;<br>
+      <i><q>Age quod agis</q></i><br>
+      Which means;<br>
+      In what ever you do, where ever you are, do it to your best.<br>
+    </body>
+
+    </html>
