@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <title>Nutrition</title>  
+  <style>
+
+    .text1 {
+        color: blue;
+
+        font-size:30px   
+    }
+   h1{
+    text-decoration: underline;
+   }
+   *{
+    text-align: center;
+    font-family:monospace ;
+   }
+  </style>
+  <body>
+    <h1><i>Nutrition</i></h1>
+    <p class="text1"><i>What is nutrition?</i></p>
+        Well, nutrition is the process in which living things obtain nutrients and make
+        use of them<br>
+        There are six types of nutrients namely;<br>
+                Water<br>
+                vitamins<br>
+                Minerals<br>
+                Fats and lipids<br>
+                Carbohydrates<br>
+    To ensure that we get the necesaary nutrients we should eat foods consisting of all 
+    nutrients in their right amounts<br>
+  </body>
+  </html>
