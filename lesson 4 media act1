@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<title>Katseye</title>
+</head>
+<body>
+
+
+    <h1>Katseye</h1>
+    <h2>Who is Katseye?</h2>
+    Well, katseye is a <mark>global girl group</mark> owned by HYBE labels<br>
+    It has six members; each from different nationalities.<br>
+    It was formed through the reality competition series <q><i>Dream academy</i></q><br>
+    They debuted on june 28, 2024,with the single <q>Debut</q><br>
+    They are based in Los Angeles, California, U.S.<br>
+    The members include; <b>Sophia, Manon, Daniela, Lara, Megan and Yoonchae</b><br>
+       
+               
+<figure>
+    <img src="katseye.jpg"/>
+    <figcaption>A photo of Katseye</figcaption>
+</figure>
+<audio controls>
+    <source src="katseye-touch-111.mp3" type="audio/mp3">
+    </audio>
+</body>
+</html>
+
+
